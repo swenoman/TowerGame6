@@ -1,0 +1,75 @@
+UnderAttack.png
+size: 300, 1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UnderAttack
+  rotate: false
+  xy: 0, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 1
+UnderAttack
+  rotate: false
+  xy: 0, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 2
+UnderAttack
+  rotate: false
+  xy: 0, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 3
+UnderAttack
+  rotate: false
+  xy: 0, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 4
+UnderAttack
+  rotate: false
+  xy: 0, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 5
+UnderAttack
+  rotate: false
+  xy: 0, 720
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 6
+UnderAttack
+  rotate: false
+  xy: 0, 864
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 7
+UnderAttack
+  rotate: false
+  xy: 0, 1008
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 8
+UnderAttack
+  rotate: false
+  xy: 0, 1152
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 9
+UnderAttack
+  rotate: false
+  xy: 0, 1296
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 10

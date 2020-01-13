@@ -1,0 +1,75 @@
+ComboBullet.png
+size: 256, 1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ComboBullet
+  rotate: false
+  xy: 0, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 1
+ComboBullet
+  rotate: false
+  xy: 0, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 2
+ComboBullet
+  rotate: false
+  xy: 0, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 3
+ComboBullet
+  rotate: false
+  xy: 0, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 4
+ComboBullet
+  rotate: false
+  xy: 0, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 5
+ComboBullet
+  rotate: false
+  xy: 0, 720
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 6
+ComboBullet
+  rotate: false
+  xy: 0, 864
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 7
+ComboBullet
+  rotate: false
+  xy: 0, 1008
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 8
+ComboBullet
+  rotate: false
+  xy: 0, 1152
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 9
+ComboBullet
+  rotate: false
+  xy: 0, 1296
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 10

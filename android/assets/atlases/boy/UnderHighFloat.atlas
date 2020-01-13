@@ -1,0 +1,285 @@
+UnderHighFloat.png
+size: 2048, 720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UnderHighFloat
+  rotate: false
+  xy: 0, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 1
+UnderHighFloat
+  rotate: false
+  xy: 256, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 2
+UnderHighFloat
+  rotate: false
+  xy: 512, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 3
+UnderHighFloat
+  rotate: false
+  xy: 768, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 4
+UnderHighFloat
+  rotate: false
+  xy: 1024, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 5
+UnderHighFloat
+  rotate: false
+  xy: 1280, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 6
+UnderHighFloat
+  rotate: false
+  xy: 1536, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 7
+UnderHighFloat
+  rotate: false
+  xy: 1792, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 8
+UnderHighFloat
+  rotate: false
+  xy: 0, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 9
+UnderHighFloat
+  rotate: false
+  xy: 256, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 10
+UnderHighFloat
+  rotate: false
+  xy: 512, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 11
+UnderHighFloat
+  rotate: false
+  xy: 768, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 12
+UnderHighFloat
+  rotate: false
+  xy: 1024, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 13
+UnderHighFloat
+  rotate: false
+  xy: 1280, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 14
+UnderHighFloat
+  rotate: false
+  xy: 1536, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 15
+UnderHighFloat
+  rotate: false
+  xy: 1792, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 16
+UnderHighFloat
+  rotate: false
+  xy: 0, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 17
+UnderHighFloat
+  rotate: false
+  xy: 256, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 18
+UnderHighFloat
+  rotate: false
+  xy: 512, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 19
+UnderHighFloat
+  rotate: false
+  xy: 768, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 20
+UnderHighFloat
+  rotate: false
+  xy: 1024, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 21
+UnderHighFloat
+  rotate: false
+  xy: 1280, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 22
+UnderHighFloat
+  rotate: false
+  xy: 1536, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 23
+UnderHighFloat
+  rotate: false
+  xy: 1792, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 24
+UnderHighFloat
+  rotate: false
+  xy: 0, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 25
+UnderHighFloat
+  rotate: false
+  xy: 256, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 26
+UnderHighFloat
+  rotate: false
+  xy: 512, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 27
+UnderHighFloat
+  rotate: false
+  xy: 768, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 28
+UnderHighFloat
+  rotate: false
+  xy: 1024, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 29
+UnderHighFloat
+  rotate: false
+  xy: 1280, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 30
+UnderHighFloat
+  rotate: false
+  xy: 1536, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 31
+UnderHighFloat
+  rotate: false
+  xy: 1792, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 32
+UnderHighFloat
+  rotate: false
+  xy: 0, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 33
+UnderHighFloat
+  rotate: false
+  xy: 256, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 34
+UnderHighFloat
+  rotate: false
+  xy: 512, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 35
+UnderHighFloat
+  rotate: false
+  xy: 768, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 36
+UnderHighFloat
+  rotate: false
+  xy: 1024, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 37
+UnderHighFloat
+  rotate: false
+  xy: 1280, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 38
+UnderHighFloat
+  rotate: false
+  xy: 1536, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 39
+UnderHighFloat
+  rotate: false
+  xy: 1792, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 40

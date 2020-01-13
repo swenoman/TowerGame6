@@ -1,0 +1,173 @@
+
+buttons.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+AchievementButton
+  rotate: false
+  xy: 654, 233
+  size: 213, 230
+  orig: 213, 230
+  offset: 0, 0
+  index: -1
+BackButton
+  rotate: false
+  xy: 655, 699
+  size: 216, 228
+  orig: 216, 228
+  offset: 0, 0
+  index: -1
+BackPointerButton
+  rotate: false
+  xy: 436, 467
+  size: 216, 229
+  orig: 216, 229
+  offset: 0, 0
+  index: -1
+CloseButton
+  rotate: false
+  xy: 220, 521
+  size: 214, 231
+  orig: 214, 231
+  offset: 0, 0
+  index: -1
+DeleteButton
+  rotate: false
+  xy: 654, 2
+  size: 213, 229
+  orig: 213, 229
+  offset: 0, 0
+  index: -1
+DownButton
+  rotate: false
+  xy: 220, 289
+  size: 214, 230
+  orig: 214, 230
+  offset: 0, 0
+  index: -1
+ForwardButton
+  rotate: false
+  xy: 2, 289
+  size: 216, 230
+  orig: 216, 230
+  offset: 0, 0
+  index: -1
+InfoButton
+  rotate: false
+  xy: 654, 465
+  size: 213, 231
+  orig: 213, 231
+  offset: 0, 0
+  index: -1
+LockedCircleButton
+  rotate: false
+  xy: 437, 5
+  size: 215, 228
+  orig: 215, 228
+  offset: 0, 0
+  index: -1
+NoTextButton
+  rotate: false
+  xy: 2, 754
+  size: 400, 173
+  orig: 400, 173
+  offset: 0, 0
+  index: -1
+OkButton
+  rotate: false
+  xy: 220, 57
+  size: 215, 230
+  orig: 215, 230
+  offset: 0, 0
+  index: -1
+PlayerButton
+  rotate: false
+  xy: 437, 235
+  size: 215, 230
+  orig: 215, 230
+  offset: 0, 0
+  index: -1
+PlusButton
+  rotate: false
+  xy: 2, 57
+  size: 216, 230
+  orig: 216, 230
+  offset: 0, 0
+  index: -1
+SettingsButton
+  rotate: false
+  xy: 436, 698
+  size: 217, 229
+  orig: 217, 229
+  offset: 0, 0
+  index: -1
+UpPointerButton
+  rotate: false
+  xy: 2, 521
+  size: 216, 231
+  orig: 216, 231
+  offset: 0, 0
+  index: -1
+
+buttons2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DownPointerButton
+  rotate: false
+  xy: 651, 235
+  size: 213, 227
+  orig: 213, 227
+  offset: 0, 0
+  index: -1
+ForwardPointerButton
+  rotate: false
+  xy: 434, 4
+  size: 213, 228
+  orig: 213, 228
+  offset: 0, 0
+  index: -1
+HomeButton
+  rotate: false
+  xy: 649, 4
+  size: 211, 228
+  orig: 211, 228
+  offset: 0, 0
+  index: -1
+MenuButton
+  rotate: false
+  xy: 219, 234
+  size: 214, 228
+  orig: 214, 228
+  offset: 0, 0
+  index: -1
+MinusButton
+  rotate: false
+  xy: 219, 3
+  size: 213, 229
+  orig: 213, 229
+  offset: 0, 0
+  index: -1
+PauseButton
+  rotate: false
+  xy: 2, 2
+  size: 215, 228
+  orig: 215, 228
+  offset: 0, 0
+  index: -1
+StoreButton
+  rotate: false
+  xy: 2, 232
+  size: 215, 230
+  orig: 215, 230
+  offset: 0, 0
+  index: -1
+UpButton
+  rotate: false
+  xy: 435, 234
+  size: 214, 228
+  orig: 214, 228
+  offset: 0, 0
+  index: -1

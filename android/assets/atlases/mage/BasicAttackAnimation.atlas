@@ -1,0 +1,110 @@
+BasicAttack.png
+size: 900, 720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BasicAttack
+  rotate: false
+  xy: 0, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 1
+BasicAttack
+  rotate: false
+  xy: 300, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 2
+BasicAttack
+  rotate: false
+  xy: 600, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 3
+BasicAttack
+  rotate: false
+  xy: 0, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 4
+BasicAttack
+  rotate: false
+  xy: 300, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 5
+BasicAttack
+  rotate: false
+  xy: 600, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 6
+BasicAttack
+  rotate: false
+  xy: 0, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 7
+BasicAttack
+  rotate: false
+  xy: 300, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 8
+BasicAttack
+  rotate: false
+  xy: 600, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 9
+BasicAttack
+  rotate: false
+  xy: 0, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 10
+BasicAttack
+  rotate: false
+  xy: 300, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 11
+BasicAttack
+  rotate: false
+  xy: 600, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 12
+BasicAttack
+  rotate: false
+  xy: 0, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 13
+BasicAttack
+  rotate: false
+  xy: 300, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 14
+BasicAttack
+  rotate: false
+  xy: 600, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 15

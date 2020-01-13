@@ -1,0 +1,180 @@
+ComboAttack.png
+size: 900, 1296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ComboAttack
+  rotate: false
+  xy: 0, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 1
+ComboAttack
+  rotate: false
+  xy: 300, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 2
+ComboAttack
+  rotate: false
+  xy: 600, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 3
+ComboAttack
+  rotate: false
+  xy: 0, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 4
+ComboAttack
+  rotate: false
+  xy: 300, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 5
+ComboAttack
+  rotate: false
+  xy: 600, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 6
+ComboAttack
+  rotate: false
+  xy: 0, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 7
+ComboAttack
+  rotate: false
+  xy: 300, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 8
+ComboAttack
+  rotate: false
+  xy: 600, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 9
+ComboAttack
+  rotate: false
+  xy: 0, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 10
+ComboAttack
+  rotate: false
+  xy: 300, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 11
+ComboAttack
+  rotate: false
+  xy: 600, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 12
+ComboAttack
+  rotate: false
+  xy: 0, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 13
+ComboAttack
+  rotate: false
+  xy: 300, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 14
+ComboAttack
+  rotate: false
+  xy: 600, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 15
+ComboAttack
+  rotate: false
+  xy: 0, 720
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 16
+ComboAttack
+  rotate: false
+  xy: 300, 720
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 17
+ComboAttack
+  rotate: false
+  xy: 600, 720
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 18
+ComboAttack
+  rotate: false
+  xy: 0, 864
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 19
+ComboAttack
+  rotate: false
+  xy: 300, 864
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 20
+ComboAttack
+  rotate: false
+  xy: 600, 864
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 21
+ComboAttack
+  rotate: false
+  xy: 0, 1008
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 22
+ComboAttack
+  rotate: false
+  xy: 300, 1008
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 23
+ComboAttack
+  rotate: false
+  xy: 600, 1008
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 24
+ComboAttack
+  rotate: false
+  xy: 0, 1152
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 25

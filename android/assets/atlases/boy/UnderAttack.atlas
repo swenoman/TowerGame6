@@ -1,0 +1,145 @@
+UnderAttack.png
+size: 512, 1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UnderAttack
+  rotate: false
+  xy: 0, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 1
+UnderAttack
+  rotate: false
+  xy: 256, 0
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 2
+UnderAttack
+  rotate: false
+  xy: 0, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 3
+UnderAttack
+  rotate: false
+  xy: 256, 144
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 4
+UnderAttack
+  rotate: false
+  xy: 0, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 5
+UnderAttack
+  rotate: false
+  xy: 256, 288
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 6
+UnderAttack
+  rotate: false
+  xy: 0, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 7
+UnderAttack
+  rotate: false
+  xy: 256, 432
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 8
+UnderAttack
+  rotate: false
+  xy: 0, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 9
+UnderAttack
+  rotate: false
+  xy: 256, 576
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 10
+UnderAttack
+  rotate: false
+  xy: 0, 720
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 11
+UnderAttack
+  rotate: false
+  xy: 256, 720
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 12
+UnderAttack
+  rotate: false
+  xy: 0, 864
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 13
+UnderAttack
+  rotate: false
+  xy: 256, 864
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 14
+UnderAttack
+  rotate: false
+  xy: 0, 1008
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 15
+UnderAttack
+  rotate: false
+  xy: 256, 1008
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 16
+UnderAttack
+  rotate: false
+  xy: 0, 1152
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 17
+UnderAttack
+  rotate: false
+  xy: 256, 1152
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 18
+UnderAttack
+  rotate: false
+  xy: 0, 1296
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 19
+UnderAttack
+  rotate: false
+  xy: 256, 1296
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: 20

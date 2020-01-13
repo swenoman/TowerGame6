@@ -1,0 +1,180 @@
+Idle.png
+size: 900, 1296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle
+  rotate: false
+  xy: 0, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 1
+Idle
+  rotate: false
+  xy: 300, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 2
+Idle
+  rotate: false
+  xy: 600, 0
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 3
+Idle
+  rotate: false
+  xy: 0, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 4
+Idle
+  rotate: false
+  xy: 300, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 5
+Idle
+  rotate: false
+  xy: 600, 144
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 6
+Idle
+  rotate: false
+  xy: 0, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 7
+Idle
+  rotate: false
+  xy: 300, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 8
+Idle
+  rotate: false
+  xy: 600, 288
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 9
+Idle
+  rotate: false
+  xy: 0, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 10
+Idle
+  rotate: false
+  xy: 300, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 11
+Idle
+  rotate: false
+  xy: 600, 432
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 12
+Idle
+  rotate: false
+  xy: 0, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 13
+Idle
+  rotate: false
+  xy: 300, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 14
+Idle
+  rotate: false
+  xy: 600, 576
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 15
+Idle
+  rotate: false
+  xy: 0, 720
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 16
+Idle
+  rotate: false
+  xy: 300, 720
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 17
+Idle
+  rotate: false
+  xy: 600, 720
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 18
+Idle
+  rotate: false
+  xy: 0, 864
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 19
+Idle
+  rotate: false
+  xy: 300, 864
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 20
+Idle
+  rotate: false
+  xy: 600, 864
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 21
+Idle
+  rotate: false
+  xy: 0, 1008
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 22
+Idle
+  rotate: false
+  xy: 300, 1008
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 23
+Idle
+  rotate: false
+  xy: 600, 1008
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 24
+Idle
+  rotate: false
+  xy: 0, 1152
+  size: 300, 144
+  orig: 300, 144
+  offset: 0, 0
+  index: 25

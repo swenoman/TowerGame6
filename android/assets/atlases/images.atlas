@@ -1,0 +1,199 @@
+
+images.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ball
+  rotate: false
+  xy: 844, 847
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+BattleScreenGUI
+  rotate: false
+  xy: 2, 536
+  size: 840, 480
+  orig: 840, 480
+  offset: 0, 0
+  index: -1
+BlackSmithFrame
+  rotate: false
+  xy: 2, 54
+  size: 840, 480
+  orig: 840, 480
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 844, 745
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 2
+item
+  rotate: false
+  xy: 844, 643
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 3
+item
+  rotate: false
+  xy: 844, 541
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 4
+item
+  rotate: false
+  xy: 844, 439
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 5
+item
+  rotate: false
+  xy: 844, 337
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 6
+item
+  rotate: false
+  xy: 946, 781
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+item
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+slot
+  rotate: false
+  xy: 844, 299
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 1
+slot
+  rotate: false
+  xy: 946, 743
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 2
+slot
+  rotate: false
+  xy: 54, 16
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 3
+slot
+  rotate: false
+  xy: 844, 261
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 4
+slot
+  rotate: false
+  xy: 884, 299
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 5
+slot
+  rotate: false
+  xy: 946, 705
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 6
+slot
+  rotate: false
+  xy: 94, 16
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 7
+slot
+  rotate: false
+  xy: 844, 223
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: 8
+
+images2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ChooseBlackSmith
+  rotate: false
+  xy: 2, 484
+  size: 840, 480
+  orig: 840, 480
+  offset: 0, 0
+  index: -1
+EditSlots
+  rotate: false
+  xy: 2, 2
+  size: 840, 480
+  orig: 840, 480
+  offset: 0, 0
+  index: -1
+
+images3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayerMenu
+  rotate: false
+  xy: 2, 484
+  size: 840, 480
+  orig: 840, 480
+  offset: 0, 0
+  index: -1
+StoreFrame
+  rotate: false
+  xy: 2, 2
+  size: 840, 480
+  orig: 840, 480
+  offset: 0, 0
+  index: -1
+
+images4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayerHomeStageInventory
+  rotate: false
+  xy: 2, 414
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: -1
+hero_image
+  rotate: false
+  xy: 2, 414
+  size: 567, 556
+  orig: 567, 556
+  offset: 0, 0
+  index: 1
+PlayerStatsHomeStageInventory
+  rotate: false
+  xy: 2, 2
+  size: 326, 410
+  orig: 326, 410
+  offset: 0, 0
+  index: -1
